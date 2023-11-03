@@ -6,7 +6,7 @@ const sendChatBtn = document.querySelector(".chat-input span");
 
 
 let userMessage = null; // Variable to store user's message
-const API_KEY = "API_KEY"; // Paste your API key here
+const API_KEY = "OPEN_API_KEY"; // Paste your API key here
 const inputInitHeight = chatInput.scrollHeight;
 
 const createChatLi = (message, className) => {
