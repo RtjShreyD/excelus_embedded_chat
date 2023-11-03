@@ -1,6 +1,6 @@
 # Chatbot in JavaScript
 
-![Alt text](image.png)
+![Alt text](image-1.png)
 
 This is a simple chatbot implemented in JavaScript using the OpenAI GPT-3.5 Turbo model. It provides a basic chat interface where users can interact with the chatbot.
 
