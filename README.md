@@ -1,6 +1,6 @@
 # Chatbot in JavaScript
 
-![Chatbot]!(chatbot.png)
+![chatbot](chatbot.png)
 
 This is a chatbot implemented in JavaScript that uses the OpenAI GPT-3.5 Turbo model to provide natural language responses. The chatbot features a user-friendly interface and can be easily integrated into your web applications.
 
